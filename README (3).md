@@ -150,13 +150,7 @@ Created 5 types of visualizations:
 
 4. **Run all cells** — `Kernel → Restart & Run All`
 
----
 
-##  Author
-
-**AQSA IQBAL**
-- Internship Task 1 — Data Science & Machine Learning
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
 
 
