@@ -1,4 +1,4 @@
-# 🌸 Iris Dataset — Exploratory Data Analysis & Classification
+#  Iris Dataset — Exploratory Data Analysis & Classification
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-green?logo=pandas)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Task Objective
+##  Task Objective
 
 Perform a complete **Exploratory Data Analysis (EDA)** on the famous **Iris dataset**, then train and evaluate a machine learning classification model to predict iris species based on flower measurements.
 
@@ -20,7 +20,7 @@ Perform a complete **Exploratory Data Analysis (EDA)** on the famous **Iris data
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 iris-eda-classification/
@@ -40,7 +40,7 @@ iris-eda-classification/
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The **Iris dataset** is one of the most well-known datasets in machine learning, originally introduced by statistician Ronald Fisher in 1936.
 
@@ -61,7 +61,7 @@ The **Iris dataset** is one of the most well-known datasets in machine learning,
 
 ---
 
-## 🔍 My Approach
+##  My Approach
 
 ### Step 1 — Data Loading & Inspection
 - Loaded dataset using `seaborn`
@@ -97,7 +97,7 @@ Created 5 types of visualizations:
 
 ---
 
-## 📈 Results & Insights
+##  Results & Insights
 
 ### Model Performance
 
@@ -118,7 +118,7 @@ Created 5 types of visualizations:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Library         | Purpose                            |
 |-----------------|------------------------------------|
@@ -130,7 +130,7 @@ Created 5 types of visualizations:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the repository**
    ```bash
@@ -152,14 +152,11 @@ Created 5 types of visualizations:
 
 ---
 
-## 👤 Author
+##  Author
 
-**Your Name**
+**AQSA IQBAL**
 - Internship Task 1 — Data Science & Machine Learning
 - GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
----
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
